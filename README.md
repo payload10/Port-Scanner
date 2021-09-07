@@ -29,7 +29,7 @@ Run the Script against multiple Targets
 
 #### Is the script as good as Nmap
 
-No, this script is just for understand how things migh work in the background.
+No, this script is just for understanding how things might work in the background.
 
 #### Will the script scan all the ports
 
